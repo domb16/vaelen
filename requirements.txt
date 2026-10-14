@@ -1,0 +1,10 @@
+fastapi
+pydantic
+uvicorn[standard]
+httpx
+signalrcore
+python-dotenv
+
+async_rithmic
+pyjwt
+pwdlib[argon2]
